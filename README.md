@@ -26,6 +26,6 @@ Create a timed quiz that stores high scores
 
 **Repository URL:** https://github.com/utake6d6/4-code-quiz
 
-**Website URL:**
+**Website URL:** 
 
-**Screenshot:** ![picture]()
+**Screenshot:** ![picture](https://github.com/utake6d6/4-code-quiz/blob/main/quizpic.png)
