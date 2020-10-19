@@ -49,7 +49,6 @@ var ulCreate = document.createElement("ul");
 
 // triggers timer on button - displays on screen
 timer.addEventListener("click", function () {
-  // We are checking zero because its originally set to zero
   if (holdInterval === 0) {
     holdInterval = setInterval(function () {
       secondsLeft--;

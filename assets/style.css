@@ -4,7 +4,7 @@
   top: 20%;
   width: 500px;
   height: 500px;
-  border: 1px solid darkorchid;
+  border: 5px solid darkorchid;
 }
 
 #startTime {
@@ -17,6 +17,7 @@
 
 #questionsDiv {
   margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #currentTime {
@@ -82,8 +83,13 @@ h1 {
   text-align: center;
 }
 
+p {
+  text-align: center;
+}
+
 li {
   background-color: darkorchid;
+  border-radius: 15px;
   margin-top: 10px;
   padding: 5px 15px;
   width: 80%;
